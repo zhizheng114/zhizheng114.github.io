@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zhizheng114.github.io</id>
+    <title>zhizheng114的小站</title>
+    <updated>2023-07-01T15:00:42.358Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zhizheng114.github.io"/>
+    <link rel="self" href="https://zhizheng114.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://zhizheng114.github.io/images/avatar.png</logo>
+    <icon>https://zhizheng114.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, zhizheng114的小站</rights>
+    <entry>
+        <title type="html"><![CDATA[暑假作业20230701]]></title>
+        <id>https://zhizheng114.github.io/post/shu-jia-zuo-ye-20230701/</id>
+        <link href="https://zhizheng114.github.io/post/shu-jia-zuo-ye-20230701/">
+        </link>
+        <updated>2023-07-01T14:37:25.000Z</updated>
+        <content type="html"><![CDATA[<p>语文<br>
+1、《人文与社会》语文部分（含一张手抄报）<br>
+2、见wxq<br>
+数学<br>
+1、《自然与科学》数学部分<br>
+2、见wxq<br>
+英语<br>
+1、《人文与社会》英语部分<br>
+政治<br>
+1、《人文与社会》政治部分<br>
+2、实践卷+填空卷<br>
+历史<br>
+1、区统考卷子改错<br>
+2、《人文与社会》历史部分<br>
+3、预习九上课本，完成精准大本九年级上册P2-P102第1课至第21课“自主学习”知识点填空<br>
+4、（拓展作业）制作九上时间轴或思维导图<br>
+物理<br>
+1、《自然与科学》物理部分<br>
+化学<br>
+1、三张卷<br>
+（欢迎补充）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://zhizheng114.github.io/post/test/</id>
+        <link href="https://zhizheng114.github.io/post/test/">
+        </link>
+        <updated>2023-07-01T13:46:44.000Z</updated>
+        <content type="html"><![CDATA[<p>阿巴阿巴</p>
+]]></content>
+    </entry>
+</feed>
